@@ -1,7 +1,6 @@
 '''
     Student shall write their names here
         1. Abdelhakim Mraihi
-        2. Student 2
 '''
 
 
